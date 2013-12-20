@@ -22,9 +22,6 @@ public:
         Date & operator+=(const Date & Date);
         Date & operator=(const Date & Date);
         int operator==(const Date & Date);
-		bool operator>=(const Date &d) const;
-		bool operator>(const Date &d) const;
-
         //dtor                                //no needed
         friend ofstream& operator<<(ofstream & Fout, const Date & d);        
 };
