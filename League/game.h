@@ -22,9 +22,9 @@ private:
         int awayExtensionScore;
 
 public:
-        //game (game& g);
         game (int roundNum, Date date);
         game();
+		game(const game& g);
 
         //Getters and Setters 
         Date getDate() {
@@ -87,5 +87,8 @@ public:
         void setAwayExtensionScore(int newAwayExtensionScore) {
                 this->awayExtensionScore = newAwayExtensionScore;
         }
+		/*void operator<<(game g){
+			cout<<g.getHomeGroup()<<" - "<<g.getAwayGroup()<<" "<<g.getHomeFinalScore()<<":"<<g.getAwayFinalScore()<<" "<<g.getHomeMidScore()<<":"<<g.getAwayMidScore();
+		}*/
 };
 #endif
