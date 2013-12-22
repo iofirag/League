@@ -1,3 +1,17 @@
+register teams
+teamA
+teamB
+teamC
+teamD
+teamE
+;
 show league
 show teams
-%USERPROFILE%\AppData\Local\Apps\2.0\XH7D8PYP.W6J\0AKOBKP0.J39\gith..tion_317444273a93ac29_0001.0002_878eda3344b3e794\GitHub.exe
+game 1 dec 31 2000
+teamA - teamB 101-102 33-33
+teamC - teamD 104-103 33-33
+;
+game 2 dec 17 3000
+teamD - teamE 105-106 33-33
+teamC - teamE 108-107 33-33
+;

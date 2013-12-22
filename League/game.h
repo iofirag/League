@@ -87,8 +87,5 @@ public:
         void setAwayExtensionScore(int newAwayExtensionScore) {
                 this->awayExtensionScore = newAwayExtensionScore;
         }
-		/*void operator<<(game g){
-			cout<<g.getHomeGroup()<<" - "<<g.getAwayGroup()<<" "<<g.getHomeFinalScore()<<":"<<g.getAwayFinalScore()<<" "<<g.getHomeMidScore()<<":"<<g.getAwayMidScore();
-		}*/
 };
 #endif
