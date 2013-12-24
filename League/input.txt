@@ -1,12 +1,8 @@
 register teams
-Show
-game
-Game
+teamA
+teamB
+teamC
 teamD
-<<<<<<< HEAD
-=======
-show
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
 ;
 show league
 show teams
@@ -14,14 +10,8 @@ game 1, dec. 31, 2000
 teamA - teamB 101:102 33:33
 teamC - teamD 104:103 33:33
 ;
-<<<<<<< HEAD
 game 2, dec. 17, 3000
 teamD - teamE 105:106 33:33
 teamC - teamE 108:107 33:33
-=======
-game 2 dec 17 3000
-teamD - teamE 105-106 33-33
-teamC - teamE 108-107 33-33
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
 ;
 show league

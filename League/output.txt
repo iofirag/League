@@ -253,35 +253,16 @@ Team                Games     Points    Total     Score
 ------------------------------------------------------------
 teamD               0         0         0         0         
 
-<<<<<<< HEAD
 Teams
 -------
 
 Teams
 -------
-=======
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
 
 Teams
 -------
 1. teamD
 
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
-
-Teams
--------
-1. teamD
-
-<<<<<<< HEAD
 Teams
 -------
 
@@ -297,31 +278,10 @@ Team                Games     Points    Total     Score
 teamA               0         0         0         0         
 teamB               0         0         0         0         
 teamC               0         0         0         0         
-=======
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
 teamD               0         0         0         0         
 
 Teams
 -------
-1. teamD
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
-teamD               0         0         0         0         
-
-Teams
--------
-<<<<<<< HEAD
 1. teamA
 2. teamB
 3. teamC
@@ -332,21 +292,10 @@ Team                Games     Points    Total     Score
 teamA               0         0         0         0         
 teamB               0         0         0         0         
 teamC               0         0         0         0         
-=======
-1. teamD
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
 teamD               0         0         0         0         
 
 Teams
 -------
-<<<<<<< HEAD
 1. teamA
 2. teamB
 3. teamC
@@ -386,35 +335,4 @@ teamA               3         4         812       712
 teamB               1         2         112       111       
 teamC               2         2         204       303       
 teamD               2         0         603       605       
-=======
-1. teamD
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Teams
--------
-1. teamD
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
-
-Teams
--------
-1. teamD
-
-Team                Games     Points    Total     Score     
-------------------------------------------------------------
-teamD               0         0         0         0         
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
 

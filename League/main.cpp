@@ -1,3 +1,9 @@
+
+// Team members :
+//
+// Vidran Abdovich - 312064829, 
+// Ofir Aghai - 302941646
+
 #include <vector>
 #include <string>
 #include <sstream>
@@ -9,7 +15,7 @@
 #include "game.h"
 using namespace std;
 
-//Team members : Vidran Abdovich - 312064829, Ofir Aghai -
+
 //----------------------------------------------//
 //The methods 'sort' - sorts lexicoraphically	//
 //a vector of strings using quick sort algorithm//
@@ -977,7 +983,6 @@ vector<game> readGameAtRound(string line, int typeInput, bool writeToFile, int* 
 	return v;
 }
 
-<<<<<<< HEAD
 //------------------------------------------------ //
 //Update the game between teamA - teamB in game.db	//
 //------------------------------------------------ //
@@ -1075,8 +1080,6 @@ void correctMatchScore(string str, league* l, string database){
 	updateSpecificGame_InDatabase_BetweenTwoTeams(g, database);
 }
 
-=======
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
 void user_menu(league* league, const int session, const vector<game>* games, int* lastRound, int argc, char** argv,vector<team>* teams, vector<game>* allGames)
 {
 	string str;
@@ -1155,15 +1158,11 @@ void user_menu(league* league, const int session, const vector<game>* games, int
 				break;
 
 			case 13:	//match score correction
-<<<<<<< HEAD
 				correctMatchScore(str, league, database);
 				*teams = readTeamsFile(database);
 				vector<game> allGames= readGameAtRound("dont need to send here string because send 2 as parameter",2, false, lastRound, teams, NULL,database,&fileReader);	//check the team.name from teamsVector source that created.
 				league->setTeams(teams); //construct a league with teams objects. teams dont have games yet.
 				league->init(&allGames);		//? add to every team in the league it's games from vector games?
-=======
-				readGameAtRound(str,1, true, lastRound, league->getTeams(), league,database,&fileReader);
->>>>>>> 93d0f478ccb34efd86887b061d5c64e8f6cd4762
 				break;
 			}
 
